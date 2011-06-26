@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  knoten1_id: MyString
+  knoten2_id: MyString
+  kantenlaenge: 1
+
+two:
+  knoten1_id: MyString
+  knoten2_id: MyString
+  kantenlaenge: 1
